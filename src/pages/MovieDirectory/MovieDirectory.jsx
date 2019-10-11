@@ -3,7 +3,7 @@ import Movie from '../../components/Movie/Movie';
 import useFetch from '../../hooks/useFetch';
 
 const MovieDirectory = () => {
-  const res = useFetch('http://www.omdbapi.com/?s=man&apikey=631aaa90', {});
+  const res = useFetch('https://www.omdbapi.com/?s=man&apikey=631aaa90', {});
   if (!res.response) {
     return <div>Loading...</div>;
   }
