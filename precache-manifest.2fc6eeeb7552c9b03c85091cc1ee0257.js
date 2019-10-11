@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f513a6ef19b76ae77980f4d7e7ce1f54",
+    "revision": "42931019ffa1b9a262533bf8d74561c3",
     "url": "/ReelDB-React/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReelDB-React/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "b3fcd77375263bd13936",
+    "revision": "2326e64777708069ba5f",
     "url": "/ReelDB-React/static/css/main.c994fdef.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReelDB-React/static/js/2.79924427.chunk.js"
   },
   {
-    "revision": "b3fcd77375263bd13936",
-    "url": "/ReelDB-React/static/js/main.dcb0de9c.chunk.js"
+    "revision": "2326e64777708069ba5f",
+    "url": "/ReelDB-React/static/js/main.8ea9389f.chunk.js"
   },
   {
     "revision": "cefaa976a704550d4188",

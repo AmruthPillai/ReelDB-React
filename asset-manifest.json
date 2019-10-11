@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReelDB-React/static/css/main.c994fdef.chunk.css",
-    "main.js": "/ReelDB-React/static/js/main.dcb0de9c.chunk.js",
-    "main.js.map": "/ReelDB-React/static/js/main.dcb0de9c.chunk.js.map",
+    "main.js": "/ReelDB-React/static/js/main.8ea9389f.chunk.js",
+    "main.js.map": "/ReelDB-React/static/js/main.8ea9389f.chunk.js.map",
     "runtime-main.js": "/ReelDB-React/static/js/runtime-main.2579cb31.js",
     "runtime-main.js.map": "/ReelDB-React/static/js/runtime-main.2579cb31.js.map",
     "static/css/2.0624914a.chunk.css": "/ReelDB-React/static/css/2.0624914a.chunk.css",
     "static/js/2.79924427.chunk.js": "/ReelDB-React/static/js/2.79924427.chunk.js",
     "static/js/2.79924427.chunk.js.map": "/ReelDB-React/static/js/2.79924427.chunk.js.map",
     "index.html": "/ReelDB-React/index.html",
-    "precache-manifest.510ee106ec6f518b564730c4276b3617.js": "/ReelDB-React/precache-manifest.510ee106ec6f518b564730c4276b3617.js",
+    "precache-manifest.2fc6eeeb7552c9b03c85091cc1ee0257.js": "/ReelDB-React/precache-manifest.2fc6eeeb7552c9b03c85091cc1ee0257.js",
     "service-worker.js": "/ReelDB-React/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/ReelDB-React/static/css/2.0624914a.chunk.css.map",
     "static/css/main.c994fdef.chunk.css.map": "/ReelDB-React/static/css/main.c994fdef.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.0624914a.chunk.css",
     "static/js/2.79924427.chunk.js",
     "static/css/main.c994fdef.chunk.css",
-    "static/js/main.dcb0de9c.chunk.js"
+    "static/js/main.8ea9389f.chunk.js"
   ]
 }
