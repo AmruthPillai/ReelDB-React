@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter,
+  HashRouter,
   Redirect,
   Switch,
   Route,
@@ -8,7 +8,7 @@ import {
 import MovieDirectory from './MovieDirectory/MovieDirectory';
 
 const Router = () => (
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
       <Route path="/movies">
         <MovieDirectory />
@@ -17,7 +17,7 @@ const Router = () => (
         <Redirect to="/movies" />
       </Route>
     </Switch>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 export default Router;
