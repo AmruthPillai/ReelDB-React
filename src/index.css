@@ -3,3 +3,9 @@ body {
   font-size: 0.9em;
   font-family: 'Montserrat', sans-serif;
 }
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
